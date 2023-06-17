@@ -1,5 +1,5 @@
 # final_project
-------------USER--------------------
+------------Admin--------------------
 import uuid
 
 # Printing random id using uuid1()
@@ -177,7 +177,7 @@ else:
 
 
 
- ------------------------------------------------Admin--------------------------------------------------------
+ -----------------------------------------------User--------------------------------------------------------
 name = str(input("Enter Your Name : "))
 phone_num = int(input("Enter Your phone number : "))
 email = str(input("Enter Your Email : "))
